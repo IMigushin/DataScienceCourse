@@ -1,0 +1,8 @@
+print("Integer", 3, 79, 0, -35)
+print("Floating point", 7.98, -0.905, 1.4)
+print("String", "Hi!", 'Jack', "123")
+print("List", ["hello", 98, 0.5, "hello"])
+print("Dictionary", {"luckyNumber": "777", 'name':'Jim'})
+print("Tuple", ("hello", 98, 0.5, 98))
+print("Set", {"hello", 98, 0.5})
+print("Boolean", True)
